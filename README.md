@@ -70,17 +70,17 @@
 <h2 align="center">🔥 Featured Projects 🔥</h2>
 <br/>
 <div align="center">
-  <a href="https://github.com/falconishere/DocQA">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=falconishere&repo=DocQA&theme=react&border_radius=10" />
+  <a href="https://github.com/abhishanfarncis/DocQA">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=DocQA&theme=react&border_radius=10" />
   </a>
-  <a href="https://github.com/falconishere/ExpenseTracker">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=falconishere&repo=ExpenseTracker&theme=react&border_radius=10" />
+  <a href="https://github.com/abhishanfrancis/ExpenseTracker">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=ExpenseTracker&theme=react&border_radius=10" />
   </a>
   <a href="https://github.com/falconishere/business-card-flip">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=falconishere&repo=business-card-flip&theme=react&border_radius=10" />
   </a>
-  <a href="https://github.com/falconishere/BID_System_V1">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=falconishere&repo=BID_System_V1&theme=react&border_radius=10" />
+  <a href="https://github.com/abhishanfrancis/BID_System_V1">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=BID_System_V1&theme=react&border_radius=10" />
   </a>
 </div>
 
@@ -91,7 +91,7 @@
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=falconishere&theme=react&no-frame=false&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishanfrancis&theme=react&no-frame=false&no-bg=true&margin-w=4&row=1" />
 </div>
 
 <br/>
