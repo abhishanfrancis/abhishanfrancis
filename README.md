@@ -46,9 +46,12 @@
 <hr/>
 
 <div align="center">
-  <h2>My Contributions </h2>
-  <br/>
-  ![](https://github-contributor-stats.vercel.app/api?username=abhishanfrancis&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ <h2>My Contributions</h2>
+
+<br/>
+
+![](https://github-contributor-stats.vercel.app/api?username=abhishanfrancis&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <hr/>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
