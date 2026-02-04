@@ -67,7 +67,9 @@
 <hr/>
 
 <h2 align="center">🔥 Featured Projects 🔥</h2>
+
 <br/>
+
 <div align="center">
   <a href="https://github.com/abhishanfrancis/DocQA">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=DocQA&theme=react&border_radius=10" />
@@ -75,9 +77,11 @@
   <a href="https://github.com/abhishanfrancis/BID_System_V1">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=BID_System_V1&theme=react&border_radius=10" />
   </a>
+
   <br/><br/>
+
   <a href="https://github.com/abhishanfrancis/ExpenseTracker">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=ExpenseTrackerp&theme=react&border_radius=10" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=ExpenseTracker&theme=react&border_radius=10" />
   </a>
   <a href="https://github.com/abhishanfrancis/employee-attendance-system">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=employee-attendance-system&theme=react&border_radius=10" />
@@ -86,6 +90,7 @@
 
 <br/>
 <hr/>
+
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <br/>
