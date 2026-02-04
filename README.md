@@ -1,111 +1,85 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abhishanfrancis.abhishanfrancis" />
+# Hi there, I'm Abhishan Francis! 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishan+Francis!;" />
-</h1>
+## A BTech Student
 
-<h3 align="center">A BTech student</h3>
+🔭 I'm currently working on **AI/ML Projects** and **Web Development**  
+🌱 I'm currently learning **Data Structures & Algorithms**  
+💬 Ask me about **C++, Java, Python, Web Development** or anything here  
+⚡ Fun fact: I debug more than I code, but somehow it still works! 😅
 
-<br/>
+---
 
-<div align="center">
- 
-🔭 I'm currently working on <b>AI/ML Projects and Web Development</b>
+## ⚒️ Languages • Frameworks • Tools ⚒️
 
-🌱 I'm currently learning <b>Data Structures & Algorithms</b>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,nodejs,git,github,vscode,linux" alt="Tech Stack" />
+</p>
 
-💬 Ask me about <b>C++, Java, Python, Web Development</b> or anything <a href="https://github.com/abhishanfrancis/abhishanfrancis/issues">here</a>
+---
 
-⚡ Fun fact: <b>I debug more than I code, but somehow it still works! 😅</b>
+## 🐍 My Contributions 🐍
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishanfrancis&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
-<div align="center"> 
-  <a href="mailto:abhiiishanfrancis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+---
+
+## ⚡ GitHub Stats ⚡
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishanfrancis&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishanfrancis&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishanfrancis&theme=radical" alt="Activity Graph" />
+</p>
+
+---
+
+## 🔥 Featured Projects 🔥
+
+<p align="center">
+  <a href="https://github.com/abhishanfrancis?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=YOUR_REPO_NAME&theme=radical" alt="Featured Project" />
   </a>
-  <a href="https://linkedin.com/in/abhishanfrancis" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/abhishanfrancis" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+</p>
 
-<hr/>
+> **Note:** Replace `YOUR_REPO_NAME` with your actual featured repository name
 
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,git,github,vscode" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,photoshop,premiere" />
-</div>
+---
 
-<br/>
-<hr/>
+## 🏆 GitHub Trophies 🏆
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/falconishere/falconishere/output/github-contribution-grid-snake.svg" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishanfrancis&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
 
-<br/>
-<hr/>
+---
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br/>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=abhishanfrancis&count_private=true&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=abhishanfrancis&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <br/><br/>
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abhishanfrancis&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
-</div>
+## 💡 Random Dev Quote 💡
 
-<br/>
-<hr/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
-<h2 align="center">🔥 Featured Projects 🔥</h2>
-<br/>
-<div align="center">
-  <a href="https://github.com/abhishanfrancis/DocQA">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=DocQA&theme=react&border_radius=10" />
-  </a>
-  <a href="https://github.com/abhishanfrancis/ExpenseTracker">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=ExpenseTracker&theme=react&border_radius=10" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/abhishanfrancis/business-card-flip">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=business-card-flip&theme=react&border_radius=10" />
-  </a>
-  <a href="https://github.com/abhishanfrancis/BID_System_V1">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=BID_System_V1&theme=react&border_radius=10" />
-  </a>
-</div>
+---
 
-<br/>
-<hr/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishanfrancis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishanfrancis&theme=react&margin-w=10&row=1" />
-</div>
+<p align="center">
+  <b>Thanks for visiting! 🚀</b>
+</p>
 
-<br/>
-<hr/>
+---
 
-<h2 align="center">💡 Random Dev Quote 💡</h2>
-<br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
-</div>
+### 📫 Connect with Me
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h3>Thanks for visiting! </h3>
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
+<p align="center">
+  <!-- Add your social media links here -->
+  <a href="https://github.com/abhishanfrancis"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
