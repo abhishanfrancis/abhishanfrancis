@@ -10,13 +10,13 @@
 
 <div align="center">
  
-🔭 I'm currently working on <b>AI/ML Projects and Web Development</b>
+🔭 I'm currently working on **AI/ML Projects and Web Development**
 
-🌱 I'm currently learning <b>Data Structures & Algorithms</b>
+🌱 I'm currently learning **Data Structures & Algorithms**
 
-💬 Ask me about <b>C++, Java, Python, Web Development</b> or anything <a href="https://github.com/abhishanfrancis/abhishanfrancis/issues">here</a>
+💬 Ask me about **C++, Java, Python, Web Development** or anything [here](https://github.com/abhishanfrancis/abhishanfrancis/issues)
 
-⚡ Fun fact: <b>I debug more than I code, but somehow it still works! 😅</b>
+⚡ Fun fact: **I debug more than I code, but somehow it still works! 😅**
 
 </div>
 
@@ -66,51 +66,34 @@
 <br/>
 <hr/>
 
-
 <h2 align="center">🚀 Featured Projects 🚀</h2>
 
 <div align="center">
 
-<a href="https://github.com/abhishanfrancis/DocQA">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=DocQA&theme=react&border_radius=12"
-    width="420"
-  />
-</a>
+### ⭕ [DocQA](https://github.com/abhishanfrancis/DocQA)
+*AI-powered document question answering system*
 
-<a href="https://github.com/abhishanfrancis/BID_System_V1">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=BID_System_V1&theme=react&border_radius=12"
-    width="420"
-  />
-</a>
+### ⭕ [BID System V1](https://github.com/abhishanfrancis/BID_System_V1)
+*Online bidding platform with real-time features*
 
-<br/><br/>
+### ⭕ [ExpenseTracker](https://github.com/abhishanfrancis/ExpenseTracker)
+*Personal finance management application*
 
-<a href="https://github.com/abhishanfrancis/ExpenseTracker">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=ExpenseTracker&theme=react&border_radius=12"
-    width="420"
-  />
-</a>
-
-<a href="https://github.com/abhishanfrancis/employee-attendance-system">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=employee-attendance-system&theme=react&border_radius=12"
-    width="420"
-  />
-</a>
+### ⭕ [Employee Attendance System](https://github.com/abhishanfrancis/employee-attendance-system)
+*Automated attendance tracking solution*
 
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center">🏆 GitHub Achievements 🏆</h2>
 <br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishanfrancis&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
-</div>>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishanfrancis&theme=discord&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <h2 align="center">💡 Random Dev Quote 💡</h2>
 <br/>
