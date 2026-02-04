@@ -67,20 +67,20 @@
 <hr/>
 
 
-<h2 align="center">🔥 Featured Projects 🔥</h2>
+<h2 align="center"> Featured Projects </h2>
 
 <div align="center">
 
 <a href="https://github.com/abhishanfrancis/DocQA">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=DocQA&theme=react&border_radius=12"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=DocQA&theme=react&border_radius=12&cache_seconds=86400"
     width="420"
   />
 </a>
 
 <a href="https://github.com/abhishanfrancis/BID_System_V1">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=BID_System_V1&theme=react&border_radius=12"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=BID_System_V1&theme=react&border_radius=12&cache_seconds=86400"
     width="420"
   />
 </a>
@@ -89,20 +89,19 @@
 
 <a href="https://github.com/abhishanfrancis/ExpenseTracker">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=ExpenseTracker&theme=react&border_radius=12"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=ExpenseTracker&theme=react&border_radius=12&cache_seconds=86400"
     width="420"
   />
 </a>
 
 <a href="https://github.com/abhishanfrancis/employee-attendance-system">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=employee-attendance-system&theme=react&border_radius=12"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=abhishanfrancis&repo=employee-attendance-system&theme=react&border_radius=12&cache_seconds=86400"
     width="420"
   />
 </a>
 
 </div>
-
 
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
