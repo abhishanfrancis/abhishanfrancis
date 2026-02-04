@@ -34,7 +34,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages • Frameworks • Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,git,github,vscode" />
@@ -46,12 +46,9 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions </h2>
   <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/falconishere/falconishere/output/github-contribution-grid-snake.svg" />
-</div>
-
-<br/>
+  ![](https://github-contributor-stats.vercel.app/api?username=abhishanfrancis&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <hr/>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
