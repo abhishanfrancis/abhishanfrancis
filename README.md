@@ -67,11 +67,7 @@
 <hr/>
 
 
-<h2 align="center">Featured Projects</h2>
-
-<p align="center">
-Selected projects showcasing backend logic, AI workflows, and real-world problem solving
-</p>
+<h2 align="center">🔥 Featured Projects 🔥</h2>
 
 <div align="center">
 
@@ -107,7 +103,6 @@ Selected projects showcasing backend logic, AI workflows, and real-world problem
 
 </div>
 
-<hr/>
 
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
